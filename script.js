@@ -53,4 +53,3 @@ function validateRegisterForm(){
 }
 
 
-// hello
