@@ -1,0 +1,12 @@
+.wrapper{
+    width: 80vw;
+    height: 83vh;
+    background-color: #fff5ff;
+
+    margin-top: 2%;
+    margin-left: 10%;
+    box-shadow: 0 .4rem .8rem #0005;
+    border-radius: .8rem;
+
+    overflow: hidden;
+}
